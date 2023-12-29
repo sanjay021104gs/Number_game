@@ -1,4 +1,4 @@
-# Number Game Project
+# Number Game Project ( TASK 1 )
 
 ## Description:
 This is a simple number game project developed during my internship at Codsoft. The goal of the game is to guess a randomly generated number within a specified range.
